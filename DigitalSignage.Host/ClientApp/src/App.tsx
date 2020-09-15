@@ -1,12 +1,14 @@
-import React from 'react';
+import React from "react";
 import { Route, Switch, withRouter } from "react-router";
-import TV from "./scenes/TV";
+import Home from "./scenes/Home";
+import Channel from "./scenes/Channel";
+import './custom.css';
 
 const App: React.FC = () => {
-
   return (
     <Switch>
-      <Route path="/" component={TV} />
+      <Route exact path="/" component={Home} />
+      <Route path="/tv" component={Channel} />
     </Switch>
   );
 };

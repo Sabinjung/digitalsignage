@@ -1,0 +1,24 @@
+{
+   "TVs": [
+      {
+         "id": 1,
+         "name": "Butwal TV",
+         "bloburl": "https://www.amny.com/wp-content/uploads/2020/03/GettyImages-1089200736.jpg"
+      },
+      {
+         "id": 2,
+         "name": "Kathmandu TV",
+         "bloburl": "https://www.history.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTU3ODc5MDg2OTY2NTgwOTU5/chicago-hero.jpg"
+      },
+      {
+         "id": 3,
+         "name": "Back Office TV",
+         "bloburl": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/06trQh35dBn-j-xIaSPqNvujcuI=/1660x934/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/X7ASKY7IJ5EVXAWF2ERT2V6LJE.jpg"
+      },
+      {
+         "id": 4,
+         "name": "IT Room TV",
+         "bloburl": "https://www.vxchnge.com/hubfs/server%20room_178974985.jpeg"
+      }
+   ]
+}
